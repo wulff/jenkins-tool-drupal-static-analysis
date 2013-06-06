@@ -222,7 +222,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>1890595028.csv</csvFileName>
+          <csvFileName>802113554.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -254,7 +254,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>802113554.csv</csvFileName>
+          <csvFileName>1628626319.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -282,7 +282,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>1628626319.csv</csvFileName>
+          <csvFileName>1242233920.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -308,7 +308,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>1242233920.csv</csvFileName>
+          <csvFileName>48819757.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -329,7 +329,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>48819757.csv</csvFileName>
+          <csvFileName>128565931.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -355,7 +355,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>128565931.csv</csvFileName>
+          <csvFileName>1577556832.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -380,7 +380,7 @@
           </series>
           <group>phploc</group>
           <numBuilds>100</numBuilds>
-          <csvFileName>1577556832.csv</csvFileName>
+          <csvFileName>487082094.csv</csvFileName>
           <csvLastModification>0</csvLastModification>
           <style>line</style>
           <useDescr>false</useDescr>
@@ -414,6 +414,6 @@
     </hudson.plugins.plot.PlotPublisher>
   </publishers>
   <buildWrappers/>
-  <generatedJobName>drupal-module-${MODULENAME}</generatedJobName>
-  <generatedDisplayJobName>Drupal module: ${DISPLAYNAME}</generatedDisplayJobName>
+  <generatedJobName>drupal-module-${MODULENAME}-${BRANCH}</generatedJobName>
+  <generatedDisplayJobName>Drupal module: ${DISPLAYNAME} (${BRANCH})</generatedDisplayJobName>
 </org.jenkinsci.plugins.jobgenerator.JobGenerator>
